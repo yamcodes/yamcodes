@@ -4,7 +4,7 @@ What I am can be summarized by the following [colinhacks](https://github.com/col
 
 > *Engineer, open-sourcer, and ride-or-die TypeScripter.*
 
-My friends and I build and maintain [The Bed Stack](https://agnyz.github.io/the-bed-stack/), a real world example for an app built in a bleeding edge framework. 
+My friends and I build and maintain [Bedstack](https://agnyz.github.io/bedstack), a real world example for an app built in a bleeding edge framework. 
 
 **🔥 I also LOVE Firebase 🔥**
 
