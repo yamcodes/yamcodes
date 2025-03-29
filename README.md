@@ -1,11 +1,11 @@
 Hi, I'm Yam!
 
-What I am can be summarized by the following [colinhacks](https://github.com/colinhacks) (Zod/tRPC creator) quote:
+I'm an _engineer, open sourcerer and ride-or-die TypeScripter_ <sup>(thanks [colinhacks](https://github.com/colinhacks) for this killer line 🍻)</sup>
 
-> *Engineer, open-sourcer, and ride-or-die TypeScripter.*
+My friends and I currently (mid 2025) build and maintain [Bedstack](https://agnyz.github.io/bedstack), a real world example app built with a bleeding edge framework. 
 
-My friends and I build and maintain [Bedstack](https://agnyz.github.io/bedstack), a real world example for an app built with a bleeding edge framework. 
-
-**🔥 I also LOVE Firebase 🔥**
+**🔥🔥🔥 I also _love_ Firebase 🔥🔥🔥**
 
 I maintain various Firebase tools like [hooked-on-firebase](https://github.com/yamcodes/hooked-on-firebase), a React Hooks library for Firebase, and [turborepo-firebase-starter](https://github.com/yamcodes/turborepo-firebase-starter), a starter template for a turbo monorepo with working deployments.
+
+Check out my website to reach out or to keep up with what I do: https://yam.codes
