@@ -2,7 +2,7 @@ Hi, I'm Yam!
 
 I'm an _engineer, open sourcerer and ride-or-die TypeScripter_ <sup>(thanks [colinhacks](https://github.com/colinhacks) for this killer line 🍻)</sup>
 
-My friends and I currently (mid 2025) build and maintain [Bedstack](https://agnyz.github.io/bedstack), a real world example app built with a bleeding edge framework. 
+My friends and I currently (mid 2025) build and maintain [Bedstack](https://bedstack.js.org), a real world example app built with a bleeding edge framework. 
 
 **🔥🔥🔥 I also _love_ Firebase 🔥🔥🔥**
 
