@@ -4,8 +4,6 @@ I'm an engineer, open sourcerer, and ride-or-die TypeScripter*. I care a lot abo
 
 I build and maintain [ArkEnv](https://arkenv.js.org), a typesafe environment variable validator for modern JavaScript runtimes, with first-class support for [ArkType](https://arktype.io/) and the [Standard Schema](https://standardschema.dev/) family of validators.
 
-I'm also designing [Bedstack](https://bedstack.js.org), an opinionated architecture for building production-ready TypeScript backends, focused on explicit data flow, modular domains, and long-term maintainability without framework lock-in.
+\* I'm also [getting back into Java](https://github.com/yamcodes/leetcode-solutions-java) now, after about a decade of not touching it!
 
 <sup>Website and contact: https://yam.codes</sup>
-
-<sup>* I'm also [getting back into Java](https://github.com/yamcodes/leetcode-solutions-java) now, after about a decade of not touching it.</sup>
